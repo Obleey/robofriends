@@ -7,8 +7,13 @@ or run `nmp run deploy` for a development build
 
 Libraries/framework used:
 
-React
+[React](https://reactjs.org/)
 
-Tachyons
+[Tachyons](https://tachyons.io/)
 
-Have fun
+API's used:
+
+[RoboHash](https://robohash.org/)
+
+
+Have fun:)))
