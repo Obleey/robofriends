@@ -11,17 +11,17 @@ It has been developed using Classes.
 
 run `nmp start` 
 
-##**Prod build:**
+**Prod build:**
 
 run `nmp run deploy` 
 
-##**Libraries/framework used:**
+**Libraries/framework used:**
 
 [React](https://reactjs.org/)
 
 [Tachyons](https://tachyons.io/)
 
-##**API's used:**
+**API's used:**
 
 [RoboHash](https://robohash.org/)
 
