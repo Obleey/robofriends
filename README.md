@@ -5,4 +5,10 @@ This was made as part of the Zero to Mastery: Complete Web Developer 2021
 run `nmp start` for a development build
 or run `nmp run deploy` for a development build
 
+Libraries/framework used:
+
+React
+
+Tachyons
+
 Have fun
