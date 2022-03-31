@@ -9,7 +9,7 @@ This was my first ever React project, so the goal here was to:
 - Learn all the basics (rendering data and life cycle methods)
 ## How to navigate this project  
 - The `src`folder contains two separate folders, one is `components`, which stores all the reusable components of the appliaction and `containers` which stores the page layout.
-- The project uses [Tachions CSS toolkit](https://tachyons.io/) for styling: [Card component example](https://github.com/obleey/robofriends/blob/main/src/Components/Card.js)
+- The project uses [Tachyons CSS toolkit](https://tachyons.io/) for styling: [Card component example](https://github.com/obleey/robofriends/blob/main/src/Components/Card.js)
 - The application fetches data from the [JSON placeholder](https://jsonplaceholder.typicode.com/users), then stores it into state. From there on, we wok with the stored data for the searchbar component, which filters the data from user input: [Code here](https://github.com/obleey/robofriends/blob/main/src/Containers/App.js)
 - The App has a Error boundry implemeneted: [Code here](https://github.com/obleey/robofriends/blob/main/src/Components/ErrorBoundry.js)
 ## Why I built the project this way  
