@@ -1,5 +1,6 @@
 ## Robofriends
 A simple React App, that filters through fetched data with a search bar and displays it on Card components
+![Robofriends](https://i.imgur.com/goWtZ03.png)
 
 ## How I worked on this project  
 
