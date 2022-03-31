@@ -38,3 +38,6 @@ run  `nmp start`
 **Prod build:**
 
 run  `nmp run deploy`
+
+## Authors
+[Miha Oblišar - @mihaoblisar](www.linkedin.com/in/miha-obli%C5%A1ar-8b177610a)
